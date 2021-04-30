@@ -1,0 +1,33 @@
+.bolder{
+    font-weight: bolder;
+}
+i:hover{
+    transform: scale(1.05);
+}
+.about{
+    font-weight: bolder;
+}
+.photo{
+    width: 250px;
+    height: 250px;
+}
+.review{
+    font-weight: bolder;
+}
+.pagi:hover{
+
+    background:#343A40;
+    color: white;
+}
+
+.my-nav-links:hover{
+
+    text-decoration: underline;
+    
+    
+}
+.navbar_picture{
+
+    width: 80px;
+    height: 80px;
+}
